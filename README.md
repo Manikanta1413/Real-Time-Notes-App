@@ -6,28 +6,7 @@ A full-stack web application that allows users to create, update, and collaborat
 
 real-time-notes-app/
 ├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── socket/
-│ ├── server.js
-│ ├── .env
-│ ├── package.json
-│ └── ...
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── utils/
-│ │ ├── sockets/
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ ├── .env
-│ ├── vite.config.js
-│ ├── package.json
-│ └── ...
-
-
 
 ---
 
